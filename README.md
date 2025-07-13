@@ -16,5 +16,4 @@ Menghapus Data
 Menampilkan Data setelah data telah dihapus
 <img width="1919" height="1004" alt="image" src="https://github.com/user-attachments/assets/6516021b-2f36-49ba-b6e0-8c1db7876e3a" />
 
-NB: 
 
